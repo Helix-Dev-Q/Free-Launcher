@@ -1,0 +1,3 @@
+@echo off
+echo Testing...
+bun tauri dev
